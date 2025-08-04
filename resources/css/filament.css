@@ -1,0 +1,4 @@
+.filament-sidebar-header img {
+    height: 3rem !important; /* default 1.5rem, ini 3rem = 48px */
+    max-height: none !important;
+}
